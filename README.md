@@ -1,1 +1,2 @@
 # MEAN-Stack
+Welcome to the MEAN Stack Practice Repository! This collection of code encompasses my learning journey as a MEAN stack developer. Dive into the world of MongoDB, Express.js, Angular, and Node.js with a curated set of practice exercises and examples. Whether you're a beginner honing your skills or an experienced developer exploring MEAN stack intricacies, this repository offers a hands-on approach to mastering each component.
